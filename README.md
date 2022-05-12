@@ -32,8 +32,7 @@ HDF-4 image files.*
 * DESTRIPE takes OCM-2 L1B file as input and updates it with the destriped image file.
 
 ## Reference
-The details of the algorithm is presented in
-[Rakesh Kumar Singh and Palanisamy Shanmugam, 2018. A novel method for destriping of OCM-2 data and radiometric performance analysis for improved ocean color data products. Advances in Space Research 61, 2801–2819.](https://doi.org/10.1016/j.asr.2018.03.021)
+Rakesh Kumar Singh and Palanisamy Shanmugam, 2018. A novel method for destriping of OCM-2 data and radiometric performance analysis for improved ocean color data products. Advances in Space Research 61, 2801–2819. https://doi.org/10.1016/j.asr.2018.03.021
 
 ## Author
 **Rakesh Kumar Singh**
