@@ -1,9 +1,9 @@
 # Destriping Ocean Colour Monitor 2 Data.
 
-## What is Ocean Colour Monitor 2?
-[Ocean Colour Monitor - 2 (OCM-2)](https://www.ioccg.org/sensors/OCM-2.pdf) is a ocean colour sensor mounted on the Earth observing satellite [OceanSat-2](https://www.isro.gov.in/Spacecraft/oceansat-2) launched by [Indian Space Research Organisation (ISRO)](https://www.isro.gov.in/) in 2009. It is a sucessor to [OCM-1](https://www.isro.gov.in/update/03-jun-1999/ocean-colour-monitor-of-irs-p4-satellite-tested) which is a payload of [OceanSat (IRS-P4)](https://www.isro.gov.in/Spacecraft/oceansatirs-p4) launched in 1999.
+## What is [Ocean Colour Monitor - 2](https://ioccg.org/sensor/ocm-2/)?
+[Ocean Colour Monitor - 2 (OCM-2)](https://ioccg.org/sensor/ocm-2/) is a multispectral ocean colour sensor mounted on the Earth observing satellite [OceanSat-2](https://www.isro.gov.in/Spacecraft/oceansat-2) launched by [Indian Space Research Organisation (ISRO)](https://www.isro.gov.in/) in 2009. It is a sucessor to [OCM-1](https://ioccg.org/sensor/ocm/) which is a payload of [OceanSat (IRS-P4)](https://www.isro.gov.in/Spacecraft/oceansatirs-p4) launched in 1999. It records radiance data in the spectral range of 400nm to 900nm with 6 bands in the visible region and 2 bands in the near-infrared region.
 
-## Why is this project needed?
+## Why is [this destriping project](https://doi.org/10.1016/j.asr.2018.03.021) needed?
 OCM-2 data has been hampered by serious vertical striping artifacts as seen in the figure below.
 
 ![Top of atmosphere radiance recorded by OCM-2 sensor in the blue region of the spectrum at 415 nm](https://github.com/rakeshkstp/DestripingOCM2/blob/main/Figures/LTOA.png)
